@@ -5,7 +5,7 @@
     "homepage": "https://github.com/creativetimofficial/black-dashboard-laravel",
     "keywords": ["Laravel", "Preset", "Black"],
     "require": {
-        "laravel/framework": "^10.0",
+        "laravel/framework": "^12.1",
         "laravel/legacy-factories": "^1.0"
 
     },
